@@ -1,0 +1,22 @@
+this method approach the calculated the final position
+of the element:
+
+** RIGHT Rotate
+	1 2 3		-> rs = 2 3 1
+	len n = 3
+	k = 2
+	i = 0 (value=1)-> final index = 2
+	i = 1 (value=2)-> final index = 0
+	i = 2 (value=3)-> final index = 1 
+
+	1 2 3 4 5 6 7 -> rs = 5 6 7 1 2 3 4
+	len = 7
+	k = 3
+	i = 0 (value=1)-> final index = 3
+	i = 1 (value=2)-> final index = 4
+	i = 2 (value=3)-> final index = 5  
+	....
+	i = 6 (value=7)-> final index = 2
+	-> final index = (i+k)%n 
+** LEFT Rotate
+	final index = (i+n-k)%n
