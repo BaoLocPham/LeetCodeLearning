@@ -6,15 +6,18 @@ This is repository for my learning on problem solving seriously
 <img src="https://user-images.githubusercontent.com/67360122/134640733-42a2702d-fad7-4988-b2cf-1085f7bc7862.png" 
      width="250px" height="250px" alt="Algorithm I"/>
 /
-<img src="https://user-images.githubusercontent.com/67360122/134641111-a516b8ac-7314-490c-a3e8-857281510999.png" 
-     width="250px" height="250px" alt="Data Structure I"/>
-
-
 <img src="https://user-images.githubusercontent.com/67360122/143194738-7294fb39-44fe-4781-9982-1bc6ad8d4c3e.png" 
      width="250px" height="250px" alt="Algorithm II"/>
+
+
+<img src="https://user-images.githubusercontent.com/67360122/134641111-a516b8ac-7314-490c-a3e8-857281510999.png" 
+     width="250px" height="250px" alt="Data Structure I"/>
 /
 <img src="https://user-images.githubusercontent.com/67360122/143194924-b3c9e96a-ae0e-4c7d-8fcd-56e71583048f.png" 
      width="250px" height="250px" alt="Data Structure II"/>
+     
+<img src="https://user-images.githubusercontent.com/67360122/147311613-fef822cd-c8bb-416d-9963-e647e8e459f3.png" 
+     width="250px" height="250px" alt="Dynamic Programing I"/>
 
 CP in nutshell:
 
